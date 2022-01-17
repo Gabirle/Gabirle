@@ -1,6 +1,5 @@
 ### Hello buddy 👋
 
-- 🔭 I’m currently working on Regulus Project
 - 🌱 I’m currently learning discord.py
 - 📫 How to reach me: 
 - ⚡ Fun fact: cats are liquid
