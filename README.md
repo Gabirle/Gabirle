@@ -1,6 +1,6 @@
 ### Hello buddy 👋
 
-- 🌱 I’m currently learning discord.py
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me: 
 - ⚡ Fun fact: cats are liquid
 
